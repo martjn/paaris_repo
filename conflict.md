@@ -1,4 +1,4 @@
-Paar rida teksti 1
+kala kala kala
 Paar rida teksti 2
 mirjam kirjutab siia teist asja
 Paar rida teksti 345 
